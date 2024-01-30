@@ -17,7 +17,7 @@
 .idea/
 
 # Yarn
-.yarn/
+.yarn/=45
 yarn.lock
 .yarnrc.yml
 
